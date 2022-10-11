@@ -1,0 +1,8 @@
+C:\Users\Decagon\source\repos\ATMapp_new\ATMapp_new\bin\Debug\ATMapp_new.exe.config
+C:\Users\Decagon\source\repos\ATMapp_new\ATMapp_new\bin\Debug\ATMapp_new.exe
+C:\Users\Decagon\source\repos\ATMapp_new\ATMapp_new\bin\Debug\ATMapp_new.pdb
+C:\Users\Decagon\source\repos\ATMapp_new\ATMapp_new\obj\Debug\WEEK3_BANKAPP.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\repos\ATMapp_new\ATMapp_new\obj\Debug\WEEK3_BANKAPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Decagon\source\repos\ATMapp_new\ATMapp_new\obj\Debug\WEEK3_BANKAPP.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\ATMapp_new\ATMapp_new\obj\Debug\ATMapp_new.exe
+C:\Users\Decagon\source\repos\ATMapp_new\ATMapp_new\obj\Debug\ATMapp_new.pdb
