@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace ATMapp_new
 {
-    internal class UBA
+    internal class UBD
     {
         static void Main(string[] args)
         {

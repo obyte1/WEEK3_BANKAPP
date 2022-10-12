@@ -9,6 +9,7 @@ namespace BankAppWeek3.UI
 {
     public class CreateMenu
     {
+        //This the account creation display menu
         public static void AccountsMenue()
         {
             Console.Clear();

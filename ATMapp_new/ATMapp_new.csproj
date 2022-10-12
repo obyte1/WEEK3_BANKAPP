@@ -54,9 +54,8 @@
     <Compile Include="Controller\TransactionsActions.cs" />
     <Compile Include="View\CreateMenu.cs" />
     <Compile Include="View\DisplayMenu.cs" />
-    <Compile Include="View\Help.cs" />
     <Compile Include="View\LoginMain.cs" />
-    <Compile Include="View\UBA.cs" />
+    <Compile Include="View\UBD.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="View\welcome.cs" />
   </ItemGroup>

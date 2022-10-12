@@ -8,6 +8,8 @@ namespace BankAppWeek3.UI
 {
     public static class DisplayMenu
     {
+
+        //This is the first menu display.
         public static void Display()
         {
             Console.Clear();
