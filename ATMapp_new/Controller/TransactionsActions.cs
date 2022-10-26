@@ -1,5 +1,6 @@
 ﻿using ATMapp_new.Controller;
 using BankAppWeek3.ErrorChecker;
+using BankAppWeek3.Models;
 using BankAppWeek3.TablePrinter;
 using System;
 using System.Collections.Generic;
@@ -11,7 +12,7 @@ namespace BankAppWeek3.TransactionCodes
 {
     public class TransactionsActions:CreateAccount
     {
-        public static void DisplayMoney(string type, string mail, string pass)
+        public static AccountMod DisplayMoney(string type, string mail, string pass)
         {
             Console.WriteLine("How much Do you wish To Deposit");
 
@@ -34,6 +35,8 @@ namespace BankAppWeek3.TransactionCodes
                 }
             }
             ErrorValidators.Back(type, mail, pass);
+
+            return null;
         }
 
         public static void Withdraw(string type, string mail, string pass)

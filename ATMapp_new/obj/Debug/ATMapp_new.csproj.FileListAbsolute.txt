@@ -6,3 +6,6 @@ C:\Users\Decagon\source\repos\ATMapp_new\ATMapp_new\obj\Debug\ATMapp_new.csproj.
 C:\Users\Decagon\source\repos\ATMapp_new\ATMapp_new\obj\Debug\ATMapp_new.csproj.CoreCompileInputs.cache
 C:\Users\Decagon\source\repos\ATMapp_new\ATMapp_new\obj\Debug\ATMapp_new.exe
 C:\Users\Decagon\source\repos\ATMapp_new\ATMapp_new\obj\Debug\ATMapp_new.pdb
+C:\Users\Decagon\source\repos\ATMapp_new\ATMapp_new\bin\Debug\nunit.framework.dll
+C:\Users\Decagon\source\repos\ATMapp_new\ATMapp_new\bin\Debug\nunit.framework.xml
+C:\Users\Decagon\source\repos\ATMapp_new\ATMapp_new\obj\Debug\ATMapp_new.csproj.CopyComplete

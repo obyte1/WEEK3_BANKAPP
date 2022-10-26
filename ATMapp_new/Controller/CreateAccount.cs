@@ -40,7 +40,7 @@ namespace ATMapp_new.Controller
 
             Console.Write("Enter Your Password: ");
             string PasswordInput = Console.ReadLine();
-            string Password = ErrorValidators.Checkpassword(PasswordInput, "Wrong Password Format/Length, Please in put a valid Password Format (xyz@wv.com)");
+            string Password = ErrorValidators.Checkpassword(PasswordInput, "Wrong Password Format/Length, Please in put a valid Password Format (abu@123)");
 
 
             var CustomerInstance = new AccountTransc(FirstName, LastName, Email, type, 0, Password);
@@ -53,7 +53,7 @@ namespace ATMapp_new.Controller
             Console.WriteLine($"Account Name: {CustomerInstance.accUpdate.AccountName}\n");
             Console.WriteLine("Thank You For Choosing UNITED BANK FOR DECAGON");
             Console.WriteLine("The Bank You can Trust.\n");
-            Console.ForegroundColor= ConsoleColor.White;
+            Console.ForegroundColor = ConsoleColor.White;
 
             ErrorValidators.Back2CreateMenu_DisplayMenu();
         }
